@@ -1,0 +1,1115 @@
+[
+  {
+    "loadData": {
+      "Price": 2330.59,
+      "customer_email": [
+        " ICS_scan@jbhunt.com"
+      ],
+      "customer_name": [
+        "JB HUNT"
+      ],
+      "customer_address": [
+        "P.O. BOX 1745 LOWELL, AR 72745-0130 United States"
+      ],
+      "dispatch": 26620,
+      "load_status": "Booked",
+      "load_number": "9J38305",
+      "carrier_RC": [
+        {
+          "id": "attlDA7xjDl2PvMGq",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/X9qAwILSlzqtQktSiZOwIQ/TF0szvywYuFrE3qYaNNNvojHtAqUvEIlZsL5CsYDkbrftQ67RZs-uiyYULMvvfBW5hVABd0uNEhFZvNGXSvUyQFLVTPQEl-TnV2CiJWL5VQ/7K_KCn-iJj49XaWY6mEIFY2xV-LqNo2kNz-Arl4stLc",
+          "filename": "Tender_9J38305.pdf",
+          "size": 24341,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/rFEB86KaVDXdRcM4JqjQ9A/dvN8m28d2PAasgPeC_4s3RviMwgUPszZ5betgcnUGYgVoPBukDO6uhVeRQkhwpIBnJ1SEZ7HckA6ldF_bH0tLA/Bt_6u2RS4gZwVkLWneIe9cDc3h7O-86EQqKGg3ELWG8",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/chm8ipDMxYKm_zREHf9X5w/I7jzlMjZ07O0cIeaszkVBw7bCOTLTDjGF7Bqrih31Faa3jtoo9wu3bma_qiCNVePjW21R88IeU5udjMsAxTUYA/uvqhWf3DS9JiLZg6KI0PNEBRh92aEaMfVmAjpzuFYcc",
+              "width": 362,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "PO - Appt",
+      "PU_date": "2022-11-09",
+      "PU_time": "20:00",
+      "delivery_date": "2022-11-12",
+      "delivery_time": "13:30",
+      "Lane": "CA > WA",
+      "Drop_type": "PO - Appt",
+      "load_type": "Team",
+      "shipper_zip": [
+        "94539"
+      ],
+      "receiver_zip": [
+        "98390 "
+      ],
+      "shipper_address": [
+        "44051 Osgood Rd"
+      ],
+      "shipper_state": [
+        "CA"
+      ],
+      "shipper_city": [
+        "Fremont"
+      ],
+      "receiver_address": [
+        "2201 140th Ave E"
+      ],
+      "receiver_state": [
+        "WA"
+      ],
+      "receiver_city": [
+        "Sumner"
+      ]
+    },
+    "clientData": {
+      "EIN #": "47-5082392",
+      "Name": "ALPHA LION TRUCKING LLC",
+      "MC #": "917031",
+      "UBI": "603505302",
+      "Status": "Active",
+      "Routing": "125000024",
+      "Business Expiration": "2023-05-31",
+      "Bank Name": "BANK OF AMERICA",
+      "SUI Number": "000-828450-00-1",
+      "BMC-85 Expiration": "undefined",
+      "Address": "24437 Russell Rd, STE 112, Kent, WA 98032"
+    },
+    "truckData": {
+        "Team_Solo": "Team ",
+        "Company": "ALPHA LION TRUCKING LLC",
+        "Phone": "(206) 408-2220",
+        "Whatsapp": "https://chat.whatsapp.com/Evtse3J7PILGLFrYDGU6k4",
+        "state": "WA",
+        "owner": [
+          "Alpha Lion Trucking"
+        ],
+        "carrier_MC": "917031",
+        "home_city": "Kent",
+        "email": "accounting@alphalionlogistics.com",
+        "Status": "Active",
+        "ADP_account": "Alpha Lion Trucking LLC",
+        "plate": "85034RP",
+        "Name": "A - 918 (Company) CNG",
+        "Owner_address": "24437 Russell Rd, STE 112, Kent, WA, 98032",
+        "Carrier": "Alpha Lion Trucking",
+        "Number_of_Run": 339,
+        "Late_pickup": 0,
+        "Current_load": [
+          26620
+        ],
+        "Accidents": "11, 16, 24, 43, 44",
+        "Next Load": [
+          27212
+        ]
+      }
+  },
+  {
+    "loadData": {
+      "Price": 2221.59,
+      "customer_email": [
+        " ICS_scan@jbhunt.com"
+      ],
+      "customer_name": [
+        "JB HUNT"
+      ],
+      "customer_address": [
+        "P.O. BOX 1745 LOWELL, AR 72745-0130 United States"
+      ],
+      "dispatch": 25455,
+      "load_status": "Booked",
+      "load_number": "9J37987",
+      "carrier_RC": [
+        {
+          "id": "attq1YXU6yaywTHOP",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/TzQH3W6bHKffuzEFy4N6KQ/Rsr5o5W1Q_Ju4J0NvN8s5GmjOE5l014y6ekYpyyRsIeqVXoE1kOVtygGwDsbhwgGfpfKzHucw15dZL0lDi1g5Ncm7XJc13AG2u2PKWKL-3s/kp4_953YavF0FjdiSJYM8-63DSK7LFWHx--mCdxuZgY",
+          "filename": "Tender_9J37987.pdf",
+          "size": 24166,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/-GYO4oyaKiJtUcYJhQJq2w/8sNmHL6ezJP6kHcC2u36_RulHAqEs_7AdGCz_TtiUAlX3VGlj0omOSjvlVoMgsuOEFHEFRc7rNLNOfNpMz2IIw/NTdtejPnZCwGJxpShE65EmAMaxd0TF5w3PocCOrNd3I",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/MM8IE5Q0rl8Q1sBEGbNbcA/BoWdLuxAawBzu-Dg07e76cQB_1iTC6pX4BoRw-GFRsZLWLpTQIAV7SxBoX1VDRC40zi7Xg9sUSHHgzTD_dFk3w/Cfcwj4Y-DdX1vwm9KaNREq7mNpxlygvwUee8JUtQRxU",
+              "width": 362,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "PO - Appt",
+      "PU_date": "2022-11-09",
+      "PU_time": "15:30",
+      "delivery_date": "2022-11-14",
+      "delivery_time": "11:48",
+      "Lane": "WA > CA",
+      "Drop_type": "PO - Appt",
+      "load_type": "Team",
+      "shipper_zip": [
+        "98390 "
+      ],
+      "receiver_zip": [
+        "94539"
+      ],
+      "shipper_address": [
+        "1901  140th Ave E"
+      ],
+      "shipper_state": [
+        "WA"
+      ],
+      "shipper_city": [
+        "Sumner"
+      ],
+      "receiver_address": [
+        "44051 Osgood Rd"
+      ],
+      "receiver_state": [
+        "CA"
+      ],
+      "receiver_city": [
+        "Fremont"
+      ]
+    },
+    "clientData": {
+      "UBI": "603505302",
+      "Address": "24437 Russell Rd, STE 112, Kent, WA 98032",
+      "Status": "Active",
+      "Bank Name": "BANK OF AMERICA",
+      "BMC-85 Expiration": "undefined",
+      "Name": "ALPHA LION TRUCKING LLC",
+      "Routing": "125000024",
+      "EIN #": "47-5082392",
+      "Business Expiration": "2023-05-31",
+      "MC #": "917031",
+      "SUI Number": "000-828450-00-1"
+    },
+    "truckData": {
+        "Team_Solo": "Local",
+        "Company": "ALPHA LION TRUCKING LLC",
+        "Phone": "(206) 408-2220",
+        "Whatsapp": "https://chat.whatsapp.com/J5AhmEKgTDnEQOgRY9taS5",
+        "state": "WA",
+        "owner": [
+          "Alpha Lion Trucking"
+        ],
+        "carrier_MC": "917031",
+        "home_city": "Kent",
+        "email": "accounting@alphalionlogistics.com",
+        "Status": "Active",
+        "ADP_account": "Alpha Lion Trucking LLC",
+        "plate": "71914RP",
+        "Name": "A - 530 (Company)",
+        "Owner_address": "24437 Russell Rd, STE 112, Kent, WA, 98032",
+        "Carrier": "Alpha Lion Trucking",
+        "Number_of_Run": 480,
+        "Current_load":[25455],
+        "Late_pickup": 0
+      },
+      "driverA": {
+        "DriverDataA": {
+          "Address": "4228 DENNISON ST APT 7, LOS ANGELES, CA 90023",
+          "Name": "Andres Martinez",
+          "Notes": "Application incomplete\n\n-Was suppose to take random drug test but went to Mexico for funeral and came back to take pre-employment drug test",
+          "Loads Delivered": 0,
+          "1099/W-2": "W-2",
+          "number_of_reimbursement": 4,
+          "Account": "314801589",
+          "License_exp": "314801589",
+          "Phone": "(323) 440-0195",
+          "email": "andresmartinez90023@yahoo.com",
+          "Medical": "5016672872",
+          "Routing": "121000358",
+          "Bank": "Bank of america",
+          "DOB": "1975-02-17",
+          "DL": "A8375168",
+          "Driver_A_late": 0,
+          "Driver_A_ontime": 0
+        }
+      }
+  },
+  {
+    "loadData": {
+      "Price": 5500,
+      "customer_email": [
+        "westcoast@ziplinelogistics.com"
+      ],
+      "customer_name": [
+        "Zipline Logistics LLC"
+      ],
+      "customer_address": [
+        "1600 Dublin Road South, Suite 1200, Columbus, OH, 43215"
+      ],
+      "dispatch": 26223,
+      "load_status": "Booked",
+      "load_number": "0459595",
+      "carrier_RC": [
+        {
+          "id": "attQqlsB4nKFSFYtW",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/1nna90GU4-ylbDDfrW7dnA/I6bg087HS19Zx-LBcJCuWj-i0BHfcWQqk_YVZO9O24Btlyu1NPajciGyZ_RwS8M8Bqzj6bd_qm8ygABt0TGpDircfzbp9fZWJmnvsbCD5vXwYxx-lL_oHOOd5DdCol-bug3PVXRwmLsmEGBd-b7LBQdzm7cyO1luvI5kyWD9T80/2JdsSm0KrQBFPlDhKL4xTn6dkvJUD9G00MUGRvujb9c",
+          "filename": "order_confirmation_0459595_5486313416332229047-lme_temp.pdf",
+          "size": 16632,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/NBCKlYs2O-YAYEPlPmY8Kg/XjmdR18DiwwRoboo2TddI4ruBLM-wlKUfakp_a5IDab5EaZSBurma9HUdkrxEeo2cTX0OFA2zDglQ05C0cZlfg/q5xxUqrkRYIp6de76lhx0VmwryxPVjgrvzHDDPIU7WA",
+              "width": 28,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/WnW9hISkAiFqQjEdzdZ61A/MqIAZ8-yzbQU9vLQz_01nI8a-_YTSv5QptpVn_A4VRukLQYEuM30hz8PV7ezRynkjGcU2V2EVvmZPn3_mt0iNw/N9zjYG-6WhKcoPeWsMuwSBe_oDaTvUZpxyqZ3fjPKds",
+              "width": 397,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "Live - Appt",
+      "PU_date": "2022-11-09",
+      "PU_time": "08:00",
+      "delivery_date": "2022-11-15",
+      "delivery_time": "11:30",
+      "Lane": "CA > WA",
+      "Drop_type": "Live - Appt",
+      "load_type": "Team",
+      "shipper_zip": [
+        "90670"
+      ],
+      "receiver_zip": [
+        "98032"
+      ],
+      "shipper_address": [
+        "12816  S Shoemaker Ave"
+      ],
+      "shipper_state": [
+        "CA"
+      ],
+      "shipper_city": [
+        "Santa Fe Springs"
+      ],
+      "receiver_address": [
+        "22027 68Th Ave S"
+      ],
+      "receiver_state": [
+        "WA"
+      ],
+      "receiver_city": [
+        "Kent"
+      ]
+    },
+    "clientData": {
+      "SUI Number": "000-826170-00-0",
+      "Business Expiration": "2023-08-31",
+      "Address": "910 Renton Ave S, Renton, WA 98057-6004",
+      "Routing": "125000105 ",
+      "UBI": "604316884",
+      "Status": "Active",
+      "Name": "IRON LINE LOGISTICS LLC",
+      "Bank Name": "US BANK",
+      "BMC-85 Expiration": "undefined",
+      "EIN #": "83-1666497",
+      "MC #": "123196"
+    },
+    "truckData": {
+        "Team_Solo": "Solo",
+        "Company": "ALPHA LION TRUCKING LLC",
+        "Phone": "(253) 334-3581",
+        "Whatsapp": "https://chat.whatsapp.com/HT6l4SwBzfIAthsWyvrM9t",
+        "state": "WA",
+        "owner": [
+          "Gursahib Dhillon"
+        ],
+        "carrier_MC": "917031",
+        "home_city": "Kent",
+        "email": "gursahib.dhillon23@gmail.com",
+        "Status": "Active",
+        "ADP_account": "Gursahib Singh Dhillon",
+        "plate": "88041RP",
+        "Name": "A - 745",
+        "Owner_address": "564 Kelly RD, Bellingham , WA, 98226",
+        "Carrier": "Alpha Lion Trucking",
+        "Number_of_Run": 90,
+        "Late_pickup": 23,
+        "Current_load":[26223]
+      },
+      "driverA": {
+        "DriverDataA": {
+          "Address": "3118 14TH AVE NW,PUYALLUP",
+          "Name": "Gursahib Singh ",
+          "Notes": "-No need of Past Employment Verification",
+          "Loads Delivered": 48,
+          "1099/W-2": "1099",
+          "number_of_reimbursement": 0,
+          "Account": "6581054662",
+          "License_exp": "6581054662",
+          "Phone": "(253) 334-3581",
+          "email": "gursahib.dhillon23@gmail.com",
+          "Medical": "8075225486",
+          "Routing": "1230-0680-0",
+          "Bank": "Wells Fargo",
+          "DOB": "1987-10-20",
+          "DL": "DHILLGS135P0",
+          "Driver_A_late": 27,
+          "Driver_A_ontime": 42
+        }
+      }
+  },
+  {
+    "loadData": {
+      "Price": 3000,
+      "customer_email": [
+        "denvertl@eshipping.biz"
+      ],
+      "customer_name": [
+        "ESHIPPING"
+      ],
+      "customer_address": [
+        "P.O. BOX 14126 PARKVILLE, MO 64152 United States"
+      ],
+      "dispatch": 25571,
+      "load_status": "Booked",
+      "load_number": "0362911",
+      "carrier_RC": [
+        {
+          "id": "att97Kn8vLvZEYHQN",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/WxhNlb2WDZ2SjJ50edU4nA/xW16_NCuk0J7B5z5ylUgfC6sGhLhjkMNpC0kr0kXHuRTciFoYFaYsCLfvJ9A1S49IN-ZH_wKaTf9qo6UtwGtRqtNTpc00ZBBkcwEsam5HCNWyFCmi5OZ8CeqbyZSdWii/BH5b3cyw4I3w8NYW2WR2HBmp41hDMJ3smxxRWRS9Ri4",
+          "filename": "order_confirmation_0362911.pdf",
+          "size": 5085,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/J7RGOmq4alWsQBWf7GMqeQ/a2FRFLdDalNf4TphqYVeVgviU1I_oSCAZVhzvVpayPKabX0V4RkDLyHAaX1FvNdC7qmY_cIneFV77F0FIqDoUw/EDKPTqnzW8MybCaoICjLZBhErn-vKqZxZzD7GRrbaME",
+              "width": 28,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/n-kSM1CZhUaC1cirPzavdQ/rb_7e6xG1MfBW0et5ytO7AsE6RQG8SGRrlrua722AHDta7pyWuVoMcOwyZO59vh5FNQHc-PwVqKY7KT8ZPENmQ/GAhdONqRJqUydyRZQbyFE9Kl9Tida5-AynWFJ362M1o",
+              "width": 397,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "Drop - FCFS ",
+      "PU_date": "2022-11-14",
+      "PU_time": "15:00",
+      "delivery_date": "2022-11-10",
+      "delivery_time": "05:00",
+      "Lane": "CA > OR",
+      "Drop_type": "Live - FCFS",
+      "load_type": "Team",
+      "shipper_zip": [
+        "95206"
+      ],
+      "receiver_zip": [
+        "97203"
+      ],
+      "shipper_address": [
+        "4466 Pock Lane"
+      ],
+      "shipper_state": [
+        "CA"
+      ],
+      "shipper_city": [
+        "Stockton"
+      ],
+      "receiver_address": [
+        "15670 N Lombard Street "
+      ],
+      "receiver_state": [
+        "OR"
+      ],
+      "receiver_city": [
+        "Portland"
+      ]
+    },
+    "clientData": {
+      "EIN #": "47-5082392",
+      "Address": "24437 Russell Rd, STE 112, Kent, WA 98032",
+      "Business Expiration": "2023-05-31",
+      "UBI": "603505302",
+      "Name": "ALPHA LION TRUCKING LLC",
+      "Bank Name": "BANK OF AMERICA",
+      "Routing": "125000024",
+      "BMC-85 Expiration": "undefined",
+      "SUI Number": "000-828450-00-1",
+      "MC #": "917031",
+      "Status": "Active"
+    },
+    "truckData": {
+        "Team_Solo": "Solo",
+        "Company": "WOLF PACK LOGISTICS LLC",
+        "Phone": "(206) 484-4314",
+        "Whatsapp": "https://chat.whatsapp.com/CsguHezklSV3ncRD8XHyH8",
+        "state": "WA",
+        "owner": [
+          "Ninderpal Singh Dhot"
+        ],
+        "carrier_MC": "1131367",
+        "home_city": "Bonney Lake",
+        "email": "Ninderdhot@gmail.com",
+        "Status": "Active",
+        "ADP_account": "M S Trucking LLC",
+        "Name": "B - 460 - MS",
+        "Owner_address": "10006 174th Ave S, Bonney Lake, WA, 98391",
+        "Carrier": "M S Trucking LLC",
+        "Number_of_Run": 22,
+        "Late_pickup": 7,
+        "Current_load":[25571]
+      }
+  },
+  {
+    "loadData": {
+      "Price": 2603.58,
+      "customer_email": [
+        "Andrew.Cannon@coyote.com"
+      ],
+      "customer_name": [
+        "COYOTE"
+      ],
+      "customer_address": [
+        "960 NORTH POINT PARKWAY SUITE 150 ALPHARETTA, GA 3005."
+      ],
+      "dispatch": 26174,
+      "load_status": "Intransit",
+      "load_number": "27861717",
+      "carrier_RC": [
+        {
+          "id": "att5HQDCf2eB2TBwi",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/tSIeP1-6FGnDSvuJflp2Ww/PnXXeXG5xk9hvHnJ7KvUAmKCiGa4zQX1V4WvzJ4YtrEJcdXLPdJAmwIyAmaLit2-oEiUB59rak_Lv5sKxtePh3_y4iHNUshx8vDQxSNKq4dr2g8O_QDDRIEUKubqL8UD/amjGXcWGkeUK0XG748mqxeNLfxdMKBcsJFAWTJ7u474",
+          "filename": "Rate Confirmation for Load #27861717.pdf",
+          "size": 174670,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/vqyGVNZbjn4JAeEr8KnwTQ/ZGmVZDEaaHr6obAYlUDW5nnCbH_WlggKeE3N-nQ1NLaEzde8UJEBvpz0d81MZVTrXWmyttLf_OiCZ7m1oEEreA/3u3qj597CC5Hcq2p479cFjYeJ3pr3pg79nFESg7pFcc",
+              "width": 28,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/729rTIxhP5Q9wihaJazYvw/4fnfhoX6pLbNAnY82-xSdQj4NxU6xNo0MxJPpIZpyGMFt47kml8SR01xwNUFzPcMiZHky45yb5XQ6ueBmanDgQ/cQVF4S4kZz7kff9rIzXIQa36NGY6w1fsHnaXrLmBhi0",
+              "width": 396,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "Drop - Appt",
+      "PU_date": "2022-11-09",
+      "PU_time": "20:30",
+      "delivery_date": "2022-11-16",
+      "delivery_time": "16:00",
+      "Lane": "WA > CA",
+      "Drop_type": "Drop - FCFS",
+      "load_type": "Team",
+      "shipper_zip": [
+        "98372"
+      ],
+      "receiver_zip": [
+        "95330"
+      ],
+      "shipper_address": [
+        "2700  Center Drive"
+      ],
+      "shipper_state": [
+        "WA"
+      ],
+      "shipper_city": [
+        "DuPont"
+      ],
+      "receiver_address": [
+        "11800 S HARLAN RD"
+      ],
+      "receiver_state": [
+        "CA"
+      ],
+      "receiver_city": [
+        "Lathrop"
+      ]
+    },
+    "clientData": {
+      "UBI": "603505302",
+      "BMC-85 Expiration": "undefined",
+      "MC #": "917031",
+      "Routing": "125000024",
+      "Business Expiration": "2023-05-31",
+      "Address": "24437 Russell Rd, STE 112, Kent, WA 98032",
+      "Bank Name": "BANK OF AMERICA",
+      "SUI Number": "000-828450-00-1",
+      "EIN #": "47-5082392",
+      "Name": "ALPHA LION TRUCKING LLC",
+      "Status": "Active"
+    }
+  },
+  {
+    "loadData": {
+      "Price": 1500,
+      "customer_email": [
+        "dispatch@shipbds.com"
+      ],
+      "customer_name": [
+        "BDS"
+      ],
+      "customer_address": [
+        "14048 W PETRONELLA DR SUITE 105 LIBERTYVILLE, IL 60048 United States"
+      ],
+      "dispatch": 26232,
+      "load_status": "Booked",
+      "load_number": "686844",
+      "carrier_RC": [
+        {
+          "id": "attkBxQfyfW3OR6qN",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/YNuOJsddnjgq0ugEf2gaew/EL9_KdVwO6C9UPB3YKZxBemrv6YvYodDyckUtV69h_E3squ7Er3IGaGO6rhzzboBnyzfNbpcsy8hSZJXW105-ZLkz96sBj9aqsTWX6tRMMcnjA0bYn6PHxW_pk1qDnjhuJZDw8HrBQ8T6Q0gMFtU020oqsf6LZLhtWiRjxh8yMOg9lylktejJDQZaVOfsek_/VSo5RF3twE_hHVusdHRgPc4kZcl76ETB6980smGkuSA",
+          "filename": "686844 - MC917031 ALPHA LION TRUCKING LLC Truckload - Carrier Rate and Load Confirmation (1).pdf",
+          "size": 76668,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/Jh_sDSIYX5wqIySEfHqfOg/FDOZUATI73wcwzSCVqc0M8_RmGldcIodDLWjXxKlHuNbMW2Bb7V17SxNtX3DhD2hoTVi6nh5rJpaUnD0o3_yBw/BloEpxSoa77IRLoGkj-h2yttEftJypjSWjyM2P3GHq8",
+              "width": 28,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/k7RYIxy5Gp6U6wE0MQshfg/UDdJdsLJd6cS-gVtIxt-jGfmsG3Fs9TMn7a-vlmJ5mQTozxiYq59LXnoYZVZLDm-9U2qYOocCQmqLZmJw8tyYw/kfkp9KglP6aIa7HLDGt8dugzZ3q0y4EEnTfm9L6f75I",
+              "width": 396,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "Live - Appt",
+      "PU_date": "2022-11-09",
+      "PU_time": "12:00 ",
+      "delivery_date": "2022-11-11",
+      "delivery_time": "07:00",
+      "Lane": "WA > CA",
+      "Drop_type": "Live - Appt",
+      "load_type": "Solo",
+      "shipper_zip": [
+        "98032"
+      ],
+      "receiver_zip": [
+        "91708"
+      ],
+      "shipper_address": [
+        "21929 67TH AVE"
+      ],
+      "shipper_state": [
+        "WA"
+      ],
+      "shipper_city": [
+        "Kent"
+      ],
+      "receiver_address": [
+        "6720 KIMBALL AVE"
+      ],
+      "receiver_state": [
+        "CA"
+      ],
+      "receiver_city": [
+        "Chino"
+      ]
+    },
+    "clientData": {
+      "Address": "24437 Russell Rd, STE 112, Kent, WA 98032",
+      "BMC-85 Expiration": "undefined",
+      "Bank Name": "BANK OF AMERICA",
+      "MC #": "917031",
+      "EIN #": "47-5082392",
+      "SUI Number": "000-828450-00-1",
+      "Status": "Active",
+      "Business Expiration": "2023-05-31",
+      "Routing": "125000024",
+      "Name": "ALPHA LION TRUCKING LLC",
+      "UBI": "603505302"
+    },
+    "truckData": {
+        "Team_Solo": "Team ",
+        "Company": "ALPHA LION TRUCKING LLC",
+        "Phone": "(206) 408-2220",
+        "Whatsapp": "https://chat.whatsapp.com/J1hazyfERSRBbUOTyGlELq",
+        "state": "WA",
+        "owner": [
+          "Alpha Lion Trucking"
+        ],
+        "carrier_MC": "917031",
+        "home_city": "Kent",
+        "email": "accounting@alphalionlogistics.com",
+        "Status": "Active",
+        "ADP_account": "Alpha Lion Trucking LLC",
+        "plate": "85032RP",
+        "Name": "A - 938 (Company) CNG",
+        "Owner_address": "24437 Russell Rd, STE 112, Kent, WA, 98032",
+        "Carrier": "Alpha Lion Trucking",
+        "Number_of_Run": 78,
+        "Late_pickup": 0,
+        "Current_load": [
+            26232
+        ],
+        "Accidents": "14",
+        "Next Load": [
+          27216
+        ]
+      }
+  },
+  {
+    "loadData": {
+      "Price": 1500,
+      "customer_email": [
+        "dispatch@shipbds.com"
+      ],
+      "customer_name": [
+        "BDS"
+      ],
+      "customer_address": [
+        "14048 W PETRONELLA DR SUITE 105 LIBERTYVILLE, IL 60048 United States"
+      ],
+      "dispatch": 26233,
+      "load_status": "Booked",
+      "load_number": "686842",
+      "carrier_RC": [
+        {
+          "id": "attmgVNmTdJq2D7T9",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/-4AXnEgjWs7ARYxNzXtXtg/DlJKQwFRCQuGemyyvpCBh04s7exuA1NZ1NyhKgtly3CBamirZb5jDzB9weNUrS8jS4ARl3PNuiGNr_bEQQwLmnN7XQcSLkeAEz7hXfuAxeUJIU1MPCrob_SvE5ydPKem314Ggp-3cKuviha3k98-qwzJnLSOvpeEg8mROE3E9bSA5taOo1qTHElgGm2vr-du/vJxs0tahsIiP4vC4i-Js_wAH18I5a1EVMjaUQD4DGFs",
+          "filename": "686842 - MC917031 ALPHA LION TRUCKING LLC Truckload - Carrier Rate and Load Confirmation.pdf",
+          "size": 76865,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/mY--XMDQZ78mBsUKWlDkUA/2oXd-6ErlBYfB5nQTt0yhxU6gUKy_Agizbo4UuPHpMrrU1hKghNI2wtnYx9Bdy5A5LYRDf_1evyp3-u-aZeGCA/nMFgKVUoXdqWlmfKEHnVDZxsPnMKnk1eiLNfgjSEuJc",
+              "width": 28,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/NcBT7ELqY4Oo-a5u-qA2XQ/eGcJq0bWRwApLo31fJUlh6ehOfxtI5X9GRle6LJQL33J1Bw6S5QYdKSjN69C9F8Ni2ogXv3WptJX72LedokcOQ/2ISj-VpCl361dFvFCaAt-DLVRri3Vya9HKYwDZJG4Zc",
+              "width": 396,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "Live - Appt",
+      "PU_date": "2022-11-09",
+      "PU_time": "13:00",
+      "delivery_date": "2022-11-13",
+      "delivery_time": "09:00",
+      "Lane": "WA > CA",
+      "Drop_type": "Live - Appt",
+      "load_type": "Solo",
+      "shipper_zip": [
+        "98032"
+      ],
+      "receiver_zip": [
+        "91708"
+      ],
+      "shipper_address": [
+        "21929 67TH AVE"
+      ],
+      "shipper_state": [
+        "WA"
+      ],
+      "shipper_city": [
+        "Kent"
+      ],
+      "receiver_address": [
+        "6720 KIMBALL AVE"
+      ],
+      "receiver_state": [
+        "CA"
+      ],
+      "receiver_city": [
+        "Chino"
+      ]
+    },
+    "clientData": {
+      "EIN #": "47-5082392",
+      "Address": "24437 Russell Rd, STE 112, Kent, WA 98032",
+      "SUI Number": "000-828450-00-1",
+      "Routing": "125000024",
+      "Business Expiration": "2023-05-31",
+      "Status": "Active",
+      "Name": "ALPHA LION TRUCKING LLC",
+      "Bank Name": "BANK OF AMERICA",
+      "MC #": "917031",
+      "UBI": "603505302",
+      "BMC-85 Expiration": "undefined"
+    },
+    "truckData": {
+        "Team_Solo": "Local",
+        "Company": "ALPHA LION TRUCKING LLC",
+        "Phone": "(206) 408-2220",
+        "Whatsapp": "https://chat.whatsapp.com/DCTPImzmvKY1hjQSqYxSOM",
+        "state": "WA",
+        "owner": [
+          "Alpha Lion Trucking"
+        ],
+        "carrier_MC": "917031",
+        "home_city": "Kent",
+        "email": "accounting@alphalionlogistics.com",
+        "Status": "Active",
+        "ADP_account": "Alpha Lion Trucking LLC",
+        "plate": "79961RP",
+        "Name": "A - 660 (Company)",
+        "Owner_address": "24437 Russell Rd, STE 112, Kent, WA, 98032",
+        "Carrier": "Alpha Lion Trucking",
+        "Number_of_Run": 534,
+        "Late_pickup": 0,
+        "Accidents": "12, 90",
+        "Current_load":[26233],
+        "Next Load": [
+          509
+        ]
+      },
+      "driverA": {
+        "DriverDataA": {
+          "Address": "416 E 119TH ST LOS ANGELES, CA 90061",
+          "Name": "Michael Anthony Billew",
+          "Notes": "3rd Request sent",
+          "Loads Delivered": 1,
+          "1099/W-2": "1099",
+          "number_of_reimbursement": 4,
+          "Phone": "(626) 615-2552",
+          "email": "michaelbillew@yahoo.com",
+          "Medical": "2104700870",
+          "DOB": "1964-04-28",
+          "DL": "C2152248",
+          "Driver_A_late": 0,
+          "Driver_A_ontime": 1
+        }
+      }
+  },
+  {
+    "loadData": {
+      "Price": 3248.89,
+      "customer_email": [
+        " ICS_scan@jbhunt.com"
+      ],
+      "customer_name": [
+        "JB HUNT"
+      ],
+      "customer_address": [
+        "P.O. BOX 1745 LOWELL, AR 72745-0130 United States"
+      ],
+      "dispatch": 26268,
+      "load_status": "Intransit",
+      "load_number": "9J38833",
+      "carrier_RC": [
+        {
+          "id": "attSGCtDWnkXCzy7b",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/1juEZXpcwAbzDmnHAssKdw/SpPQ5MYfrpvg8VYIMtstU8bWRPgsgbLUYjm6e5uUxlo9vCFh_1wPIuylB1n1y0rjWZog6kTHhbvF1uLEW-gltzq790rBRXqPN4edDFL24DU/OGM1Rr2UZhJrKnxh8VxMyJMFsIFSLu5kZxTCgjnQtFc",
+          "filename": "Tender_9J38833.pdf",
+          "size": 24144,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/c5S4PTGyJbg4hppjNgEE-w/6Ff9t5enE9-DnIG0_L-jx-Nwhe0m9RbB1pDOfmjk2g29vyKiwVGmN2NNcrVRxvLDNinlWP5wUa3bpzizJHdErg/eYRfjquF1ezg189ZpgeMOsaikhONYLr3pdNIwkMOzRM",
+              "width": 25,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/1ARFASx42nzLgscmwVnN0w/Z2ucBA8b2FxpPmGnGlIoN9LxUrd5vlDALhuspf7rWu3JMl5r0Xeh3NsKfqLbcHjMKKxBF-jJHbZaNJeDynNNbg/N6ZeDEjOl25rF4NvgdTbdMuDEV1ZVRdf9XkRVpkXEOI",
+              "width": 362,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "PO - Appt",
+      "PU_date": "2022-11-11",
+      "PU_time": "14:30",
+      "delivery_date": "2022-11-12",
+      "delivery_time": "02:46",
+      "Lane": "CA > OR",
+      "Drop_type": "PO - Appt",
+      "load_type": "Team",
+      "shipper_zip": [
+        "95688"
+      ],
+      "receiver_zip": [
+        "97203"
+      ],
+      "shipper_address": [
+        "4800 Midway Road"
+      ],
+      "shipper_state": [
+        "CA"
+      ],
+      "shipper_city": [
+        "Vacaville"
+      ],
+      "receiver_address": [
+        "15000 N LOMBARD ST,# HPD9"
+      ],
+      "receiver_state": [
+        "OR"
+      ],
+      "receiver_city": [
+        "Portland"
+      ]
+    },
+    "clientData": {
+      "SUI Number": "000-828450-00-1",
+      "Status": "Active",
+      "Routing": "125000024",
+      "Business Expiration": "2023-05-31",
+      "BMC-85 Expiration": "undefined",
+      "Bank Name": "BANK OF AMERICA",
+      "MC #": "917031",
+      "EIN #": "47-5082392",
+      "Address": "24437 Russell Rd, STE 112, Kent, WA 98032",
+      "Name": "ALPHA LION TRUCKING LLC",
+      "UBI": "603505302"
+    },
+    "truckData": {
+        "Team_Solo": "Solo",
+        "Company": "WOLF PACK LOGISTICS LLC",
+        "Phone": "(253) 209-9599",
+        "Whatsapp": "https://chat.whatsapp.com/EFN7oPjvxXuE4hbEsX1VoV",
+        "state": "WA",
+        "owner": [
+          "Victor Mwangi"
+        ],
+        "carrier_MC": "1156212",
+        "home_city": "Seattle",
+        "email": "Starofhopellc@gmail.com",
+        "Status": "Active",
+        "ADP_account": "Star Of Hope trucking LLC",
+        "Name": "B - 127 - Star",
+        "Owner_address": "6237 Lakewood DR W , University Place, WA, 98467",
+        "Carrier": "Star Of Hope trucking LLC",
+        "Number_of_Run": 84,
+        "Late_pickup": 31,
+        "Current_load":[26268]
+      }
+  },
+  {
+    "loadData": {
+      "Price": 1600,
+      "customer_email": [
+        "loaddocs@chrobinson.com"
+      ],
+      "customer_name": [
+        "C.H.ROBINSON"
+      ],
+      "customer_address": [
+        "PO BOX 3470 CHICAGO, IL 60654 United States"
+      ],
+      "dispatch": 26534,
+      "load_status": "Booked",
+      "load_number": "415572828",
+      "carrier_RC": [
+        {
+          "id": "attaDmzTxOoG6qI2X",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/r5vpbMnJAPMWFevqXuQoPg/rcoBfWWYQzMp4BzYLlsTXh63xtUskMU62rmKS3XOqAvZxwvqwcroOB2F3eyjJX4Acbbl57_paF9q31IM3p1I105iYMi4oOG9BZ5reP_0xgQ/MXLkbPe3FV1Kd3TCRMK1PBrDZTlsFxPrOVe9K0nqji4",
+          "filename": "doc1226262662.pdf",
+          "size": 81954,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/lEOLf-XKUYeAuGJ3xh6UJg/ttK6kwtkDChfk8R9oNvGjSv99yZZetdC8NHqGqZ2fvQQEMZzLy1_Z9shMGxWzaSXrI2qkcelsh2-uT6Lv-35uQ/Iw80dOzPat03H1dKOnYxtw-67tzrFnKTjApq-6T0Ock",
+              "width": 28,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/pJw8DwoLeVKtd-jbJ8Smdw/9fRHNkAO2rAuBnIPg3rF_k8k3zPGoax75lYQLt7LBIC-cDFbLxj-rj-oGwuBl6lQqwPWKiBu8p1wwGn_SG-tug/Y6BM4RqfEPzuZuQGMRQQ8ENGwVqRdNY5-Os2ygO4dlM",
+              "width": 396,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "Live - Appt",
+      "PU_date": "2022-11-09",
+      "PU_time": "13:30",
+      "delivery_date": "2022-11-12",
+      "delivery_time": "09:00 ",
+      "Lane": "WA > CA",
+      "Drop_type": "Live - Appt",
+      "load_type": "Solo",
+      "shipper_zip": [
+        "98032"
+      ],
+      "receiver_zip": [
+        "90280"
+      ],
+      "shipper_address": [
+        "7011 S 188th St"
+      ],
+      "shipper_state": [
+        "WA"
+      ],
+      "shipper_city": [
+        "Kent"
+      ],
+      "receiver_address": [
+        "5625 Firestone Blvd"
+      ],
+      "receiver_state": [
+        "CA"
+      ],
+      "receiver_city": [
+        "South Gate"
+      ]
+    },
+    "clientData": {
+      "Bank Name": "US BANK",
+      "Status": "Active",
+      "EIN #": "83-1666497",
+      "MC #": "123196",
+      "UBI": "604316884",
+      "BMC-85 Expiration": "undefined",
+      "Routing": "125000105 ",
+      "SUI Number": "000-826170-00-0",
+      "Business Expiration": "2023-08-31",
+      "Address": "910 Renton Ave S, Renton, WA 98057-6004",
+      "Name": "IRON LINE LOGISTICS LLC"
+    },
+    "truckData": {
+        "Team_Solo": "Team ",
+        "Company": "ALPHA LION TRUCKING LLC",
+        "Phone": "(206) 408-2220",
+        "Whatsapp": "https://chat.whatsapp.com/HzsTtRoG4zVDGy8YZtlDYe",
+        "state": "WA",
+        "owner": [
+          "Alpha Lion Trucking"
+        ],
+        "carrier_MC": "917031",
+        "home_city": "Kent",
+        "email": "accounting@alphalionlogistics.com",
+        "Status": "Active",
+        "ADP_account": "Alpha Lion Trucking LLC",
+        "plate": "85030RP",
+        "Name": "A - 921 (Company) CNG",
+        "Owner_address": "24437 Russell Rd, STE 112, Kent, WA, 98032",
+        "Carrier": "Alpha Lion Trucking",
+        "Number_of_Run": 390,
+        "Late_pickup": 0,
+        "Current_load": [
+            26534
+        ],
+        "Next Load": [
+          27210
+        ]
+      }
+  },
+  {
+    "loadData": {
+      "Price": 1600,
+      "customer_email": [
+        "loaddocs@chrobinson.com"
+      ],
+      "customer_name": [
+        "C.H.ROBINSON"
+      ],
+      "customer_address": [
+        "PO BOX 3470 CHICAGO, IL 60654 United States"
+      ],
+      "dispatch": 26571,
+      "load_status": "Booked",
+      "load_number": "415572525",
+      "carrier_RC": [
+        {
+          "id": "attnEus6jcuAYloOd",
+          "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/MomZQsLua9qpecOCP9X8og/r9sXSMUP7QZQnj_ciu2eJlVS1vYZxHgFEfjWUNi2t-_ui0nddXu31G6VrROfPpWDHLorqc_lNIiIOgmV0UWKwV6Mfx9MMrIp112ukiBYcmA/2RzicLyUPL31Eboou5AzrFt9N8VOiAR2IREPqo537yE",
+          "filename": "415572525.pdf",
+          "size": 154330,
+          "type": "application/pdf",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/707VsxxNdN3CznJePZTOgg/aAtJ8LRhzCAR4_Wv7Nxij82yaIny9cbNUD5tsE3ZTuLIpUYNW5FNP2BJtdbMb0d-indSA13xSPy78K4TRE_4qA/ZALcZQ9y4K6mlpJf49dGpcsrG5TRz_azguJB9-lGMM4",
+              "width": 28,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v1/10/10/1668002400000/6AjT0fh67ykp9OOwoCZ8tg/XID4W241mwkq6OmSpmvj1OS8zZNYUJgb-Q9wMSLYNXuDBkF8h7nFnM5XLDmZY1683r-FxDPTYqoiSrXngC86Kw/6ziHekN-8rqqwqu0hRaVCKbJARlETeYn27WIz8eW8aE",
+              "width": 396,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "PU_type": "Live - Appt",
+      "PU_date": "2022-11-09",
+      "PU_time": "10:30",
+      "delivery_date": "2022-11-13",
+      "delivery_time": "10:00",
+      "Lane": "WA > CA",
+      "Drop_type": "Live - Appt",
+      "load_type": "Solo",
+      "shipper_zip": [
+        "98032"
+      ],
+      "receiver_zip": [
+        "92867"
+      ],
+      "shipper_address": [
+        "7011 S 188th St"
+      ],
+      "shipper_state": [
+        "WA"
+      ],
+      "shipper_city": [
+        "Kent"
+      ],
+      "receiver_address": [
+        "943 n elm st"
+      ],
+      "receiver_state": [
+        "CA"
+      ],
+      "receiver_city": [
+        "Orange"
+      ]
+    },
+    "clientData": {
+      "SUI Number": "000-828450-00-1",
+      "Routing": "125000024",
+      "BMC-85 Expiration": "undefined",
+      "Name": "ALPHA LION TRUCKING LLC",
+      "Address": "24437 Russell Rd, STE 112, Kent, WA 98032",
+      "MC #": "917031",
+      "Status": "Active",
+      "EIN #": "47-5082392",
+      "Bank Name": "BANK OF AMERICA",
+      "Business Expiration": "2023-05-31",
+      "UBI": "603505302"
+    },
+    "truckData": {
+        "Team_Solo": "Team ",
+        "Company": "ALPHA LION TRUCKING LLC",
+        "Phone": "(206) 408-2220",
+        "Whatsapp": "https://chat.whatsapp.com/HiMPYBl5MDDAKNQE2VWuiN",
+        "state": "WA",
+        "owner": [
+          "Alpha Lion Trucking"
+        ],
+        "carrier_MC": "917031",
+        "home_city": "Kent",
+        "email": "accounting@alphalionlogistics.com",
+        "Status": "Active",
+        "ADP_account": "Alpha Lion Trucking LLC",
+        "plate": "85023RP",
+        "Name": "A - 925 (Company) CNG",
+        "Owner_address": "24437 Russell Rd, STE 112, Kent, WA, 98032",
+        "Carrier": "Alpha Lion Trucking",
+        "Number_of_Run": 290,
+        "Late_pickup": 0,
+        "Current_load": [
+            26571
+          
+        ],
+        "Next Load": [
+          27213
+        ]
+      }
+  }
+]
+

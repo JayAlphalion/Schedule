@@ -1,13 +1,338 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&family=Work+Sans:wght@100;200;400;500&display=swap');
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+}
+.leftinput,.rightinput{
+  border: 1px solid black;
+}
+:root {
+  --background-color: #D1F0EA;
+  --text-color: black;
+  font-family: 'Work Sans', sans-serif;
+}
+img{
+  max-width: 100%;
+  display: block;
+}
+/* SEARCH BOC INPUT STYLING */
+.ScheduleNavbar-container{
+  background-color: black;
+  color: white;
+  padding: 1.5em 0em .5em 1em;
+}
+.search-box{
+  width: 90%;
+  margin: 1em auto;
+  background-color: var(--background-color);
+  padding: 1em 1.5em; display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+  font-family: 'Work Sans', sans-serif;
+}
+.search-box input{
+  outline: 0;
+  border: 0;
+  padding: .3em .6em;
+  border-radius: 20px;
+  margin-top: .6em;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+.pluss{
+  margin-right: 1em;
+  cursor: pointer;
+  transition: transform .2 s ease-in;
+}
+.pluss:hover, 
+.pluss:active{
+  transform: scale(1.2);
+}
+.pluss-inp{
+  position: relative;
+  right: 10%;
+}
+.search-input-box{
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+  /* background-color: red; */
+  flex-direction: column;
+}
+.one-row-input{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: green; */
+  margin-bottom: .5em;
+  /* align-items: flex-start; */
+}
+.add-more{
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-start;
+}
+/* .SearchContainerbox{
+  display: flex;
+  flex-direction: column;
+} */
+.icon{
+  cursor: pointer;
+  transition: transform .3 s ease-in;
+}
+.icon:hover{
+  transform: scale(1.2);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+/* SEARCH RESULT CONTAINER */
+.search-result-container{
+  width: 99%;
+  margin: .5em auto;
+  display: flex;
+  flex-direction: column;
+}
+.single-city-container{
+  display: flex;
+  flex-direction: column;
+}
+.inp_states{
+    background-color: black;
+    color: white;
+    width: fit-content;
+    font-size: .9rem;
+    padding: .2em .4em;
+    margin: .2em 0;
+}
+
+.city-heading{
+  background-color: black;
+  color: white;
+  width: fit-content;
+  padding: .5em 4em .5em .5em;
+  border-radius: 1rem 1rem 0rem 0rem;
+  font-weight: 600;
+  font-size: 1.15rem;
+
+}
+.date-basis-filter{
+  display: flex;
+  flex-direction: column;
+  /* background-color: aqua; */
+}
+.left-side-date-basis{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 60%;
+}
+.date-row{
+  display: flex;
+  flex-direction: row;
+  background-color:var(--background-color);
+  margin-bottom: .5em;
+  justify-content: space-between;
+  align-items: center;
+  padding: .3em .6em;
+  border-radius: 1rem;
+  /* width: fit-content; */
+}
+.mid-date-basis,.end-date-basis{
+  display: flex;
+  width: 15%; 
+  align-items: center;
+  justify-content: space-between;
+}
+.fff{
+  float: right;
+}
+.team-bg{
+  background-color: #FC5353;
+  padding: .2em .4em;
+ border-radius: 1rem;
+ font-size: .8rem;
+  
+}
+.solo-bg{
+  background-color: #5375EE;
+  padding: .2em .4em;
+ border-radius: 1rem;
+ font-size: .8rem;
+}
+.inside-north-side{
+  margin-top: .5em;
+}
+
+.expand1-box{
+  display: flex;
+  flex-direction: column;
+    background-color: var(--background-color);
+    padding: .2em .4em;
+    font-size: 1.15rem;
+    font-weight: 600;
+    border-radius: 1rem;
+    margin-bottom: .5em;
+    /* width: fit-content; */
+    /* background-color: red; */
+    /* justify-content: center; */
+}
+
+.solo-trucks-details{
+  width: 100%;
+}
+.date{
+  border-bottom: 1px solid black;
+  margin-bottom: .2em;
+  padding-bottom: .2em;
+}
+.team-box{
+  display: flex;
+  flex-direction: column;
+  margin-top: 1.2em;
+  margin-bottom: 2.4em;
+  padding-top: .2em;
+
+}
+.team-desc-header{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #000;
+  width: fit-content;
+  padding-bottom: .5em;
+  margin-bottom: .3em;
+  /* position: fixed; */
+  flex-grow: 1;
+  /* width: 50%; */
+
+}
+.team-desc-left span{
+  margin-right: 1em;
+  font-size: .8rem;
+}
+.team-desc-details{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: column;
+  /* flex-grow: 1; */
+  /* background-color: red; */
+
+  /* background-color: var(--background-color); */
+}
+.first-row-heading{
+  background-color: #000;
+  width: 15%;
+  color: white;
+  padding: .3em 0em .3em .4em;
+  font-size: 1rem;
+  border-radius: 8px;
+
+}
+.load-area-table{
+  /* background-color: red; */
+  text-align: left;
+  /* border-bottom: 1px solid #000; */
+  /* margin-bottom: .5em; */
+  /* display: flex; */
+}
+th{
+  border-bottom: 1px solid black;
+  padding: .1em .3em;
+  font-size: 1rem;
+}
+table{
+  width: 100%;
+  margin: 0em 0em .5em 0em;
+  /* background-color: red; */
+  /* border-bottom: 1 px solid black; */
+}
+td{
+  font-weight: 400;
+  font-size: .9rem;
+  text-align: left;
+}
+
+
+.Load-area,.Available-area{
+  /* background-color: green; */
+  /* flex-grow: 1; */
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  flex-grow: 1;
+  width: 100%;
+  position: relative;
+  
+}
+
+
+.search-remove-city{
+  width: fit-content;
+  height: fit-content; 
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-left: 15px;
+}
+
+.search-city{
+  width: max-content;
+  height: max-content;
+  padding: 5px;
+}
+
+ 
+
+/* .team-desc-details  { overflow-x: scroll; } 
+th, td { min-width: 200px; } */
+
+.team-loads-details,.team-trucks-details,.solo-loads-details,.solo-trucks-details{ overflow-x: scroll; } 
+th, td { min-width: 200px;
+ 
+ }
+ .team-trucks-details{
+  width: 100%;
+ }
+ .team-loads-details,.solo-loads-details{
+  width: -webkit-fill-available;
+  margin: 0 0.1em;
+ }
+.assign-btn{
+  background-color: green;
+  padding: .2em .6em;
+ border-radius: 1rem;
+ font-size: .8rem;
+ color: white;
+ border: 0;
+ outline: 0;
+ margin-left: .5em;
+ cursor: pointer;
+ transition: transform .3s ease-in;
+}
+button:hover,
+button:active{
+  transform: scale(.96);
+}
+
+
+/* .solo
+.load-area-table{ overflow-x: scroll; }
+th, td { min-width: 200px; }
+             */
+
+
+th{
+  text-transform: uppercase;
+}
+
+.empty-search-result-container{
+  align-items: center;
+}
+
+.expand1-box,.date-row{
+  cursor: pointer;
 }
